@@ -1,5 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/app/controllers/HomeController.java:25:1: method render in class views.html.about cannot be applied to given types;[0m
-[0m[[0m[31merror[0m] [0m[0m  required: no arguments[0m
-[0m[[0m[31merror[0m] [0m[0m  found: java.lang.String[0m
-[0m[[0m[31merror[0m] [0m[0m  reason: actual and formal argument lists differ in length[0m
-[0m[[0m[31merror[0m] [0m[0m    return ok (about.render("About Us"));[0m
